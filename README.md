@@ -15,6 +15,26 @@ Librería de utilidades para facilitar la integración de Spring Boot con WSO2 A
 - ✅ Claims opcionales y requeridos
 - ✅ Sin configuración adicional necesaria
 
+## 📦 Instalación
+
+### Maven
+
+Añade el repositorio y la dependencia a tu `pom.xml`:
+```xml
+<repositories>
+    <repository>
+        <id>jitpack.io</id>
+        <url>https://jitpack.io</url>
+    </repository>
+</repositories><dependencies>
+    <dependency>
+        <groupId>com.github.SRGonzalez2</groupId>
+        <artifactId>wso2-spring-utils</artifactId>
+        <version>v1.0.0</version>
+    </dependency>
+</dependencies>
+````
+
 ## 📖 Uso
 
 ### Extracción de claims JWT
