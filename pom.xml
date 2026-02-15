@@ -5,7 +5,7 @@
 
 	<groupId>com.microservicios</groupId>
 	<artifactId>wso2-spring-utils</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<name>WSO2 Spring Utils</name>
 	<description>Utilidades para integración de Spring Boot con WSO2 Identity Server y OAuth</description>
 	<url>https://github.com/SRGonzalez2/wso2-spring-utils</url>
