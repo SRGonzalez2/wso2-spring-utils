@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Version](https://img.shields.io/badge/Version-1.0.0-success)
 
-Librería de utilidades para facilitar la integración de Spring Boot con WSO2 Identity Server y servicios OAuth.
+Librería de utilidades para facilitar la integración de Spring Boot con WSO2 APIM y servicios OAuth.
 
 ## 🚀 Características
 
