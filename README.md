@@ -26,7 +26,9 @@ Añade el repositorio y la dependencia a tu `pom.xml`:
         <id>jitpack.io</id>
         <url>https://jitpack.io</url>
     </repository>
-</repositories><dependencies>
+</repositories>
+
+<dependencies>
     <dependency>
         <groupId>com.github.SRGonzalez2</groupId>
         <artifactId>wso2-spring-utils</artifactId>
